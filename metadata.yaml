@@ -1,4 +1,8 @@
 _repo: Studies-in-the-Epistle-of-James_48411
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48411-h/images/cover.jpg
 creator:
   author:
     agent_name: Robertson, A. T.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '38167'
     url: http://www.gutenberg.org/2009/agents/38167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48411#Studies-in-the-Epistle-of-James
 gutenberg_issued: '2015-03-05'
 gutenberg_type: Text
 identifiers:
